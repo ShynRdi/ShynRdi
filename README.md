@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning { React.js }
 - 💞️ I’m looking to collaborate on AIM( artificial intelligence and music ) projects
 - 📫 How to reach me search for shynrdi in social medias
+<div>### This page has not been updated for a while because of the master's exam. It will be updated soon. ###</div>
 <div>
   <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
   <img alt="Coder GIF" height=250 width=350 src="https://media.tenor.com/atAdikBk9WcAAAAi/ablobblewobble-blob.gif" />
