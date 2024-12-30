@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @ShynRdi
-- 👀 I’m interested in FrontEndDevelopment - A.I. - Art
-- 🌱 I’m currently learning { React.js }
-- 💞️ I’m looking to collaborate on AIM ( artificial intelligence and music ) projects
-- 📫 How to reach me search for shynrdi on social medias
+- 👋 Hi, I’m **Shayan Radi**  
+- 🎨 Passionate about blending **Artificial Intelligence**, **Music**, and **Art** into groundbreaking creations.  
+- 🌟 My expertise spans **Data Science**, **Machine Learning**, and **Deep Learning**.  
+- 🖥️ I started as a **Web Developer** (yes, I’ve mastered **React.js**), but now I’m diving deep into the fascinating world of **Deep Learning**.  
+- 🎶 Looking to collaborate on projects that connect **AI** and **Music** (AIM projects).  
+- 🌐 Check out my CV and more on my personal website: [shayanradi.info](http://cv.shayanradi.info)  
+- 📫 Reach me by searching **@ShynRdi** on your favorite social media platforms.  
+
 <div>
   <img alt="Coder GIF" height=250 width=350 src="https://media.tenor.com/atAdikBk9WcAAAAi/ablobblewobble-blob.gif" />
 </div>
