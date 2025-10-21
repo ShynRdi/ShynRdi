@@ -3,7 +3,7 @@
 - 🌟 My expertise spans **Data Science**, **Machine Learning**, and **Deep Learning**.  
 - 🖥️ I started as a **Web Developer** (yes, I’ve mastered **React.js**), but now I’m diving deep into the fascinating world of **Deep Learning**.  
 - 🎶 Looking to collaborate on projects that connect **AI** and **Music** (AIM projects).  
-- 🌐 Check out my CV and more on my personal website: [shayanradi.info](http://cv.shayanradi.info)  
+- 🌐 Check out my CV and more on my personal website: [cv.ShayanRadi.com](http://cv.shayanradi.com)  
 - 📫 Reach me by searching **@ShynRdi** on your favorite social media platforms.  
 
 <div>
